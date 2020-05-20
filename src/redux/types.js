@@ -1,0 +1,7 @@
+export const LOAD_FAVORITE = 'LOAD_FAVORITE';
+export const ADD_FAVORITE = 'ADD_FAVORITE';
+export const FETCH_DATA = 'FETCH_DATA';
+export const DELETE_FAVORITE = 'DELETE_FAVORITE';
+export const DISABLED_BUTTON = 'DISABLED_BUTTON';
+export const SET_STATUS = "SET_STATUS";
+
