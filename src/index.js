@@ -9,7 +9,7 @@ import {store} from "./redux/store";
 
 ReactDOM.render(
   <Provider store={store}>
-  <Router>
+  <Router basename="/Dogs-App">
      <App />
   </Router>
   </Provider>,
