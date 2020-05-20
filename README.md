@@ -1,5 +1,6 @@
 #  Projeyi calistirma
 
+Projeyi incelemek için https://mahmuttyildiz.github.io/Dogs-App/ adresini kullanabilirsiniz.
 
 `yarn install` komutu ile paketleri yukledikten sonra `yarn start` ile projeyi calistirabilirsiniz.
  Projeyi baslatmadan once homepage dosyasindaki API_HOST degiskenini kendi mock api urlinizle degistirmeniz gerek, yoksa proje calismayacaktir. mockapi.io uzerinde bir hesap olusturduktan sonra asagidaki url e tiklarsaniz servis sizin icin clonelanacak.
